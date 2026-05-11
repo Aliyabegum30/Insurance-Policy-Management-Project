@@ -1,0 +1,59 @@
+{
+  "policies": [
+    {
+      "id": "b4580682-42aa-4582-8cdb-95f68168d834",
+      "policyNumber": "POL-1778147208947-207",
+      "policyHolder": "aliya",
+      "startDate": "2026-05-07",
+      "endDate": "2027-05-07",
+      "coverageAmount": "1004",
+      "status": "ACTIVE",
+      "type": "LIFE",
+      "age": "19",
+      "premium": 5.97,
+      "details": "Life coverage for aliya, Age: 19"
+    },
+    {
+      "id": "52f6512a-0f17-4097-9869-bab44a56b65b",
+      "policyNumber": "POL-1778474870755-568",
+      "policyHolder": "aliya",
+      "startDate": "2026-05-11",
+      "endDate": "2027-05-11",
+      "coverageAmount": 2098,
+      "status": "ACTIVE",
+      "type": "LIFE",
+      "age": 23,
+      "premium": 12.9,
+      "details": "Life coverage for aliya, Age: 23"
+    },
+    {
+      "id": "ddc78748-878a-428e-84e6-b4b97ee590dd",
+      "policyNumber": "POL-1778475020075-202",
+      "policyHolder": "aliya",
+      "startDate": "2026-05-11",
+      "endDate": "2027-05-11",
+      "coverageAmount": 2300,
+      "status": "ACTIVE",
+      "type": "HEALTH",
+      "preExistingConditions": [
+        "diabetes"
+      ],
+      "premium": 20.24,
+      "details": "Health coverage with 1 pre-existing conditions"
+    },
+    {
+      "id": "16f1f668-03cc-4df6-a12f-dff3b61adcd4",
+      "policyNumber": "POL-1778475045106-35",
+      "policyHolder": "aliya",
+      "startDate": "2026-05-11",
+      "endDate": "2027-05-11",
+      "coverageAmount": 1324,
+      "status": "ACTIVE",
+      "type": "VEHICLE",
+      "vehicleType": "BIKE",
+      "vehicleValue": 12000,
+      "premium": 168,
+      "details": "BIKE insurance for aliya"
+    }
+  ]
+}
